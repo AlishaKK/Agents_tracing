@@ -6,10 +6,15 @@ https://docs.smith.langchain.com/observability/how_to_guides/trace_with_openai_a
 
 
 uv init --package agent_tracing
+
 cd agent_tracing
+
+
 uv add openai-agents
 
+
 uv add  "langsmith[openai-agents]"
+
 
 uv run filename
 
