@@ -4,7 +4,6 @@
 
 ## 🧠 Agent Tracing with LangSmith & OpenAI Agents SDK
 
-**Monitor and Debug Autonomous Agents with UV, LangChain, and OpenAI**
 
 ---
 
