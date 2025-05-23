@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e72b280e-ea6d-44be-adac-95b2ba15a561)
+![image](https://github.com/user-attachments/assets/24fb5df5-3365-40db-b228-e02effd344c1)
 
 
 https://docs.smith.langchain.com/observability/how_to_guides/trace_with_openai_agents_sdk
